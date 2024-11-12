@@ -15,8 +15,11 @@ export enum TitleColor {
   templateUrl: './side-bar.component.html',
 })
 export class SideBarComponent {
+  public title = input<string>('Company');
+  public subTitle = input<string>('Dashboard');
   public isAuthenticated = input<boolean>(false);
   public titleColor = input<TitleColor>(TitleColor.blue);
+
   public onSignOut = output();
   public onSignIn = output();
 }
