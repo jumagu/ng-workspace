@@ -1,0 +1,30 @@
+{
+  "version": "0.0.1",
+  "name": "jumagu-side-bar",
+  "author": {
+    "name": "Juan Gutiérrez",
+    "email": "jmgg.gutierrez@gmail.com",
+    "url": "https://github.com/jumagu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jumagu/side-bar"
+  },
+  "bugs": {
+    "url": "https://github.com/jumagu/side-bar/issues"
+  },
+  "keywords": [
+    "angular",
+    "component",
+    "custom",
+    "sidebar"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
