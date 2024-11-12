@@ -1,5 +1,6 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "license": "MIT",
   "name": "jumagu-side-bar",
   "author": {
     "name": "Juan Gutiérrez",
@@ -8,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jumagu/side-bar"
+    "url": "https://github.com/jumagu/ng-workspace/tree/master/projects/side-bar"
   },
   "bugs": {
-    "url": "https://github.com/jumagu/side-bar/issues"
+    "url": "https://github.com/jumagu/side-bar/ng-workspace"
   },
   "keywords": [
     "angular",
